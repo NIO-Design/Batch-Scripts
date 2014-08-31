@@ -12,9 +12,9 @@ You might be interested with this script, if you work with Git / Github for Wind
 
 #### Advantages:
 
--  ##### Instant access to the repo's path and no need to navigate.
+-  :star: Instant access to the repo's path and no need to navigate.
 
--  ##### Skip regular input and set-up your own commands.
+-  :star: Skip regular input and set-up your own commands.
 
 -  ##### Save time with command for commit with message based by template. That's right - forget about the efforts to fix issues, inflicted by omitted "" around the text!
 

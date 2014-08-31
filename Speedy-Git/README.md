@@ -62,7 +62,7 @@ git --version
 
 :sunny: Finally, what we have in total:
   * Two (or more) .bat files placed on two (or more) different roots.
-  * Two new short-cuts on your Desktop.
+  * Two (or more) new shortcuts on your Desktop.
   * Updated .gitignore files.
 
-##### Update some of your repos and then use the new shortcuts.  
+##### Update someone of your repos and then use the new shortcuts. :octocat:

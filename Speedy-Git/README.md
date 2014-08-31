@@ -16,21 +16,21 @@ You might be interested with this script, if you work with Git / Github for Wind
 
 -  :star: Skip regular input and set-up your own commands.
 
--  ##### Save time with command for commit with message based by template. That's right - forget about the efforts to fix issues, inflicted by omitted "" around the text!
+-  :sparkles: Save time with command for commit with message based by template. That's right - forget about the efforts to fix issues, inflicted by omitted "" around the text!
 
--  ##### Perfect utility for personal projects and repos handled by yourself.
+-  :sunny: Perfect utility for personal projects and repos handled by yourself.
 
--  ##### You don't need to launch the desktop app for simple tasks.
+-  :hourglass_flowing_sand: You don't need to launch the desktop app for simple tasks.
 
--  ##### It can be expanded with more options.
+-  :books: It can be expanded with more options.
 
 #### Disadvantages:
 
--  ##### It is not full featured replacement for Github! You must clone your repos, add SSH keys and fix __complicated issues__ in the regular way!
+-  :maple_leaf: It is not full featured replacement for Github! You must clone your repos, add SSH keys and fix __complicated issues__ in the regular way!
 
--  ##### If you use it with __"Github for Windows"__, you must enter your account credentials after the push command. (http style) I'll include one work-around latter in the article.
+-  :maple_leaf: If you use it with __"Github for Windows"__, you must enter your account credentials after the push command. (http style) I'll include one work-around latter in the article.
 
--  ##### Not suitable in __big projects__ without improvements, refactoring and really __careful usage!__
+-  :gun: Not suitable in __big projects__ without improvements, refactoring and really __careful usage!__
 
-
+/play sexyback
 #### Installation Process:

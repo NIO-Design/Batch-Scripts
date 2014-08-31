@@ -34,3 +34,22 @@ You might be interested with this script, if you work with Git / Github for Wind
 
 
 #### Installation Process:
+
+1. Check if Git is added to your Win 8.1 / 7 Path.
+
+- Run the Command Prompt and type:
+
+```
+git --version
+```
+- You must see something like this in the output: __git version 1.9.4.msysgit.0__
+
+2. Add bat exception into your __.gitignore__ file.
+- Open the .gitignore file into your repo's root directory and add the followed text:  
+```
+# Scripts #
+###########
+*.bat
+```
+
+3. Place the script file into the same __root__ repo __directory__ on your PC. Just download the RAW version of "Speedy_Git.bat" into your desktop and then Copy & Paste.

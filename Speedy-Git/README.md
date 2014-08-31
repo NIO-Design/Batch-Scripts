@@ -32,5 +32,5 @@ You might be interested with this script, if you work with Git / Github for Wind
 
 -  :gun: Not suitable in __big projects__ without improvements, refactoring and really __careful usage!__
 
-/play sexyback
+
 #### Installation Process:

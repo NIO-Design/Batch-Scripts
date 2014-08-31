@@ -7,6 +7,6 @@ You might be interested with this script, if you work with Github desktop applic
 
 #### It runs git commands in a row, when you just type "1/2/3" and then hit "Enter".
 
-<a href="Assets/speedy_full.jpg" target="_blank">
-<img src="Assets/small.jpg" title="Click to view" /></a>
+<a href="https://raw.githubusercontent.com/NIO-Design/Batch-Scripts/master/Speedy-Git/Assets/speedy_full.jpg" target="_blank">
+<img src="Assets/speedy_small.jpg" title="Click to view" /></a>
 

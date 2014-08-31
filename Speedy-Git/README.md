@@ -37,15 +37,15 @@ You might be interested with this script, if you work with Git / Github for Wind
 
 1. Check if Git is added to your Win 8.1 / 7 Path.
 
-- Run the Command Prompt and type:
+  * Run the Command Prompt and type:
 
 ```
 git --version
 ```
-- You must see something like this in the output: __git version 1.9.4.msysgit.0__
+  * You must see something like this in the output: __git version 1.9.4.msysgit.0__
 
 2. Add bat exception into your __.gitignore__ file.
-- Open the .gitignore file into your repo's root directory and add the followed text:  
+  * Open the .gitignore file into your repo's root directory and add the followed text:  
 ```
 # Scripts #
 ###########

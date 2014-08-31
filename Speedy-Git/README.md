@@ -57,5 +57,12 @@ git --version
   * If you want to use the script on __different__ repos - __repeat__ steps 2 and 3 for __every__ single one of them.
   
 :sunny: Right click on the Speedy_Get.bat and make icon for the Desktop. Now rename the __desktop icon__ with proper name, accommodated to your repo's name.
-  * Important step - in my workflow the .bat files represents your repository.
+  * Important step - in my workflow the .bat file represent your repository.
 ![Desktop icons](Assets/desk_icons.jpg "Desktop Icons")
+
+:sunny: Finally, what we have in total:
+  * Two (or more) .bat files placed on two (or more) different roots.
+  * Two new short-cuts on your Desktop.
+  * Updated .gitignore files.
+
+### Update some of your repos and then use the new shortcuts.  

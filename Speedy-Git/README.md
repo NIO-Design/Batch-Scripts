@@ -55,14 +55,15 @@ git --version
 :sunny: Place the script file into the same __root__ repo __directory__ on your PC. Just download the RAW version of "Speedy_Git.bat" into your desktop and then Copy & Paste.
 ![Root Repo Dir](Assets/root_dir.jpg "Root Directory")
   * If you want to use the script on __different__ repos - __repeat steps 2, 3 and 4__ for every single one of them. :point_left:
+    In my case I'll repeat the process two times.
   
 :sunny: Right click on the Speedy_Get.bat and make icon for the Desktop. Now rename the __desktop icon__ with proper name, accommodated to your repo's name.
   * Important step - in my workflow the .bat file represent your repository.
   * ![Desktop icons](Assets/desk_icons.jpg "Desktop Icons")
 
 :sunny: Finally, what we have in total:
-  * Two (or more) .bat files placed on two (or more) different roots.
-  * Two (or more) new shortcuts on your Desktop.
+  * Two (or more) .bat files placed on different roots.
+  * New shortcuts on the desktop.
   * Updated .gitignore files.
 
 ##### Update someone of your repos and then use the new shortcuts. :octocat:

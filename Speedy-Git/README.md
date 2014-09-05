@@ -8,7 +8,7 @@ You might be interested with this script, if you work with Git / Github for Wind
 #### It runs git commands in a row, when you just type "1/2/3" and then hit "Enter".
 
 <a href="https://raw.githubusercontent.com/NIO-Design/Batch-Scripts/master/Speedy-Git/Assets/speedy_full.jpg" target="_blank">
-<img src="Assets/speedy_small.jpg" title="Click to view" /></a>
+<img src="Assets/speedy_sm_ssh.png" title="Click to view" /></a>
 
 #### Advantages:
 

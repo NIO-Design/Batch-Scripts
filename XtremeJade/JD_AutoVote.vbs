@@ -8,10 +8,10 @@ set vote = createobject("wscript.shell")
 
 vote.run "http://www.xtremejade.com/index.php"
 
-wscript.sleep (8500)
+wscript.sleep (9500)
 vote.sendkeys chr(9)
 
-wscript.sleep (2000)
+wscript.sleep (3000)
 vote.sendkeys chr(9)
 
 wscript.sleep (3000)

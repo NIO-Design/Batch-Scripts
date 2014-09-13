@@ -1,5 +1,11 @@
 set vote = createobject("wscript.shell")
 
+' Uncomment if you want to use specific browser / run the process in new window.
+
+'vote.run "firefox.exe"
+
+'wscript.sleep (3500)
+
 vote.run "http://www.xtremejade.com/index.php"
 
 wscript.sleep (8500)
